@@ -1,6 +1,6 @@
 protocol AllAuthorsPresenterProtocol {
     func notifyViewDidLoad() -> Void
-    func loadAll() -> [Author] 
+    func loadAll() -> [Athor]
 }
 
 final class AllAuthorsPresenter: AllAuthorsPresenterProtocol {
