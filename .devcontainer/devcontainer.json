@@ -5,7 +5,9 @@
         "vscode": {
             "extensions": [
                 "sswg.swift-lang",
-                "pieterjongsma.swift-playgrounds"
+                "pieterjongsma.swift-playgrounds",
+                "alishobeiri.swift-development",
+                "fireplusteam.vscode-ios"
             ],
             "settings": {
                 "lldb.library": "/usr/lib/liblldb.so"
