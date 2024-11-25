@@ -4,7 +4,8 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "sswg.swift-lang"
+                "sswg.swift-lang",
+                "pieterjongsma.swift-playgrounds"
             ],
             "settings": {
                 "lldb.library": "/usr/lib/liblldb.so"
